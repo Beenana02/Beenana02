@@ -1,4 +1,11 @@
-## Hi there 👋
+# Hello, I'm Gabi
+
+Check out my pinned projects! 📌 
+
+🦈 🛠️ I'm currently working on my video game & RFID jukebox. (Make sure to check out those projects)
+
+### =] 
+
 
 <!--
 **Beenana02/Beenana02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
