@@ -2,7 +2,7 @@
 
 Check out my pinned projects! 📌 
 
-🦈 🛠️ I'm currently working on my video game & RFID jukebox. (Make sure to check out those projects)
+🦈 🛠️ I'm currently working on my DIY camera (Krill Kam) & RFID jukebox. (Make sure to check out those projects)
 
 ### =] 
 
